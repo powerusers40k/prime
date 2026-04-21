@@ -1,6 +1,16 @@
 # prime
 alternative to the web
 
+# installation 
+
+```bash
+git clone https://github.com/powerusers40k/prime.git
+cd prime
+go run *.go
+```
+
+*Open locahost:8080 at Browser.*
+
 # supports
 
 - any DOMAINS (for free)
